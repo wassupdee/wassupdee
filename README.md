@@ -1,5 +1,11 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=wassupdee)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,tailwind,js,linux,ubuntu,git,github,docker,heroku,cloudflare,figma,selenium,vscode&perline=8)](https://skillicons.dev)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wassupdee&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wassupdee&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wassupdee&theme=github)
 <!--
 **wassupdee/wassupdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
