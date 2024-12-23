@@ -1,6 +1,8 @@
 ## 📝 Now Learning
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,tailwind,js,linux,ubuntu,git,github,docker,heroku,cloudflare,figma,selenium,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,js,vue,linux,git,github,docker,aws,heroku,figma,vim&perline=7)](https://skillicons.dev)
 
+## 📰 Articles
+[【Rails】なぜSorceryは、LINEログインからメールアドレスを取得できないか](https://qiita.com/wassupdee/items/e9909336028cd29e1895)
 ## 📈Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wassupdee&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wassupdee&theme=github)
