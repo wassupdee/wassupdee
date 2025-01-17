@@ -1,5 +1,5 @@
 ## 📝 Now Learning
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,js,vue,linux,git,github,docker,aws,heroku,figma,vim&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,js,ts,react,linux,git,github,docker,aws,heroku,figma,vim&perline=8)](https://skillicons.dev)
 
 ## 📰 Articles
 [【Rails】なぜSorceryは、LINEログインからメールアドレスを取得できないか](https://qiita.com/wassupdee/items/e9909336028cd29e1895)
