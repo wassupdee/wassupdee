@@ -1,8 +1,14 @@
+## 🖥 Portfolio
+[Stay Friends](https://github.com/wassupdee/RUNTEQ_portfolio)
+
+[Pomodoro Timer](https://github.com/wassupdee/pomodoro_timer_app_new)
+## 📰 Articles
+[【Rails】なぜSorceryは、LINEログインからメールアドレスを取得できないか](https://qiita.com/wassupdee/items/e9909336028cd29e1895)
+
 ## 📝 Now Learning
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,html,css,js,ts,react,linux,git,github,docker,aws,heroku,figma,vim&perline=8)](https://skillicons.dev)
 
-## 📰 Articles
-[【Rails】なぜSorceryは、LINEログインからメールアドレスを取得できないか](https://qiita.com/wassupdee/items/e9909336028cd29e1895)
+
 ## 📈Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wassupdee&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wassupdee&theme=github)
